@@ -4,7 +4,7 @@
 **Tema:** Modelagem e Implementação de Banco de Dados (Entrega 02)  
 **Professor:** Prof. MSc. Hugo Menezes Barra  
 **Empresa Parceira:** Schulz S.A.  
-**Script de criação:** `03_banco.sql` (SQLite)
+**Script de criação:** `banco.sql` (SQLite)
 
 ---
 
